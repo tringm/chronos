@@ -1,0 +1,8 @@
+[out:json]; 
+area
+	["name:en"="insert_country_name"];
+node
+    ["is_in:country"="insert_country_name"]
+	[place=city];
+
+out;

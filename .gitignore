@@ -1,0 +1,8 @@
+# secrets
+secret.py
+
+# idea
+.idea/
+
+#pycache
+__pycache__/

@@ -1,0 +1,7 @@
+[out:json];
+area
+    [name="insert_city_name"];
+way(area)
+    [name]
+    [highway];
+out;

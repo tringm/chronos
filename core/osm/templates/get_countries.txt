@@ -1,0 +1,6 @@
+[out:json];
+(
+relation["type"="boundary"]["boundary"="administrative"]["admin_level"="2"];
+relation["type"="land_area"]["admin_level"="2"];
+);
+out;
