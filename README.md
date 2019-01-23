@@ -13,9 +13,9 @@ Names are crawled from [names.mongabay](https://names.mongabay.com/) (names data
 
 ### Geographical data
 User location data is based on:
-    * Open Street Map(OSM):
-        * Country's info (e.g: name, code, population, continent, etc.)
-        * Cities's info (e.g: name, code, population, etc.)
-        * Street Names
-    * Geonames:
-        * Postal codes for missing postal codes data in OSM
+* Open Street Map(OSM):
+    * Country's info (e.g: name, code, population, continent, etc.)
+    * Cities's info (e.g: name, code, population, etc.)
+    * Street Names
+* Geonames:
+    * Postal codes for missing postal codes data in OSM
