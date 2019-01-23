@@ -24,23 +24,47 @@ def generate_people_basic_info(population):
 
     for idx in range(population):
         info = {}
-        info['first_name'] = firstname_samples.iloc[idx]['Name']
-        info['last_name'] = surname_samples.iloc[idx]['Surname']
+        info['first_name'] = firstname_samples.iloc[idx]['Name'].capitalize()
+        info['last_name'] = surname_samples.iloc[idx]['Surname'].capitalize()
         typical_gender = firstname_samples.iloc[idx]['Gender'].lower()
         if is_typical_gender_distribution[idx]:
             info['gender'] = typical_gender
         else:
             info['gender'] = opposite_gender[typical_gender]
+        info['email'] = email_generator(info['first_name'], info['last_name'])
+
         people.append(info)
+
     df = pd.DataFrame(people)
-    print(df.head(3))
-    df = df[['first_name', 'last_name', 'gender']]
+    df = df[['first_name', 'last_name', 'gender', 'email']]
     return df
 
 
+def email_generator(first_name, last_name):
+    first_name = first_name.lower()
+    last_name = last_name.lower()
+    domains = ['gmail.com', 'yahoo.com', 'hotmail.com', 'aol.com', 'msn.com', 'comcast.net', 'verizon.net', 'cox.net']
 
-def mail(first_name, last_name):
-    ends = ['gmail.com', 'yahoo.com', 'hotmail.com']
+    option = np.random.randint(8)
+    if option == 0:
+        address = first_name[0] + last_name
+    elif option == 1:
+        address = first_name[0] + '.' + last_name
+    elif option == 2:
+        address = first_name[0] + '_' + last_name
+    elif option == 3:
+        address = first_name + last_name
+    elif option == 4:
+        address = first_name + '_' + last_name
+    elif option == 5:
+        address = first_name + '.' + last_name
+    elif option == 6:
+        address = first_name
+    elif option == 7:
+        address = last_name
+    return address + '@' + np.random.choice(domains)
+
+
 
 
 
