@@ -48,9 +48,9 @@ for idx, city in enumerate(cities):
         # TODO: add character
         address = str(np.random.randint(1000)) + ' ' + street[0]
         postal_code = street[1]
-        people_where.append({'address': address, 'postal_code': postal_code})
+        people_where.append({'address': address, 'city': city, 'postal_code': postal_code})
 people_where = pd.DataFrame(people_where)
-people_where = people_where[['address', 'postal_code']]
+people_where = people_where[['address', 'city', 'postal_code']]
 
 people_data = pd.concat([people, people_where], axis=1)
 
@@ -69,6 +69,8 @@ ages = ages.astype(int)
 shuffle(ages)
 people_data['age'] = pd.Series(ages)
 people_data.to_csv('users.csv', sep=',')
+
+# TODO ADD FIELD ID FOR USER
 
 
 

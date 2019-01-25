@@ -1,6 +1,8 @@
 from math import floor
 import datetime as dt
 from random import randint
+import numpy as np
+
 
 def divide_by_proportion(proportion_list, n_items):
     result = [floor(prop * n_items) for prop in proportion_list]
