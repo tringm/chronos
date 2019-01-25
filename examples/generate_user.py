@@ -1,5 +1,4 @@
 from json import load
-from math import floor
 from random import choice, shuffle
 
 import numpy as np
@@ -12,18 +11,7 @@ from core.osm.lib.query import get_streets_with_postal_codes_by_city, get_street
 from core.structure.OSM.City import City
 from core.structure.PopulationPyramid import PopulationPyramid
 
-
-def divide_by_proportion(proportion_list, n_items):
-    result = [floor(prop * n_items) for prop in proportion_list]
-    sum_diff = n_items - sum(result)
-    if sum_diff > 0:
-        if sum_diff > len(proportion_list):
-            raise ValueError('Fix me')
-        for idx in np.random.choice(len(proportion_list), sum_diff):
-            result[idx] += 1
-    if sum_diff < 0:
-        raise ValueError('Fix me')
-    return result
+from examples.lib.helper import divide_by_proportion
 
 finland_city_path = in_path() / 'osm' / 'city' / 'Finland_cities.json'
 

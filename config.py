@@ -11,3 +11,8 @@ def mock_data_path():
 
 def in_path():
     return Path(__file__).parent / 'io' / 'in'
+
+
+def root_path():
+    return  Path(__file__).parent
+
