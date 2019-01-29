@@ -48,7 +48,7 @@ for idx, city in enumerate(cities):
         # TODO: add character
         address = str(np.random.randint(1000)) + ' ' + street[0]
         postal_code = street[1]
-        people_where.append({'address': address, 'city': city, 'postal_code': postal_code})
+        people_where.append({'address': address, 'city': city.name, 'postal_code': postal_code})
 people_where = pd.DataFrame(people_where)
 people_where = people_where[['address', 'city', 'postal_code']]
 
