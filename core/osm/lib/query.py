@@ -1,8 +1,5 @@
 import requests
-import pandas as pd
-import io
-import json
-from pprint import pprint
+
 from config import core_path
 
 overpass_url = 'https://lz4.overpass-api.de/api/interpreter?'
@@ -10,6 +7,15 @@ overpass_url = 'https://lz4.overpass-api.de/api/interpreter?'
 # TODO: Support name in multiple language
 # TODO: what if request failes
 
+def get_area_by_coordinates(lat, lon, level_criteria):
+    path = core_path() / 'osm' / 'templates' / 'get_area_by_coordinates.txt'
+    with path.open(mode='r') as f:
+        q = f.read()
+    q = q.replace("insert_latitude", lat)
+    q = q.replace("insert_longitude", lon)
+    q = q.replace("insert_admin_level", level_criteria)
+    request = requests.post(overpass_url, data=q)
+    return request.json()
 
 def get_countries():
     """

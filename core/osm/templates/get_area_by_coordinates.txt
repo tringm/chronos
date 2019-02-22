@@ -1,0 +1,4 @@
+[out:json];
+is_in(insert_latitude, insert_longitude);
+area._[admin_level=insert_admin_level];
+out;
