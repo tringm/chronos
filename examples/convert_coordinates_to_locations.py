@@ -25,4 +25,4 @@ for index, row in data.iterrows():
 data['longitudeWGS84'] = pd.Series(long_standard)
 data['latitudeWGS84'] = pd.Series(lat_standard)
 data['location'] = pd.Series(locations)
-data.to_csv((root_path() / 'examples' / 'io' / 'kiva_keskusta_location.csv'), index=False)
+data.to_csv((root_path() / 'examples' / 'io' / 'kiva_keskusta_location.csv'), index=False, sep=';')
