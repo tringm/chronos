@@ -1,0 +1,319 @@
+16:04:20 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.09809504199984076
+16:04:20 Converter INFO       Convert file to csv took 0.0061958490005054045
+16:14:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009324766000645468
+16:14:11 Converter INFO       Convert file to csv took 0.0014537139995809412
+16:14:33 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009237186999598634
+16:14:33 Converter INFO       Convert file to csv took 0.0015634459996363148
+16:21:29 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009793773999263067
+16:21:29 Converter INFO       Convert file to csv took 0.0014918260003469186
+16:21:29 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005387467999753426
+16:21:29 Converter INFO       Convert file to csv took 0.0010724809999373974
+16:22:19 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009446420999665861
+16:22:19 Converter INFO       Convert file to csv took 0.0014879040008963784
+16:22:19 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005889797999770963
+16:22:19 Converter INFO       Convert file to csv took 0.00117289399895526
+16:28:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009438502000193694
+16:28:11 Converter INFO       Convert file to csv took 0.0014878820002195425
+16:28:36 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009025531000588671
+16:28:36 Converter INFO       Convert file to csv took 0.0013302980005391873
+16:28:36 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.0047148090015980415
+16:28:36 Converter INFO       Convert file to csv took 0.0009413389998371713
+16:28:36 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.004864099000769784
+16:28:36 Converter INFO       Convert file to csv took 0.0010286010001436807
+16:28:36 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.00548253299893986
+16:28:36 Converter INFO       Convert file to csv took 0.0010704650012485217
+16:34:00 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009698127996671246
+16:34:00 Converter INFO       Convert file to csv took 0.0014727369998581707
+16:34:00 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.00526408899895614
+16:34:00 Converter INFO       Convert file to csv took 0.0010659079998731613
+16:34:00 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005073213000287069
+16:34:00 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005238376001216238
+16:34:00 Converter INFO       Convert file to ndjson took 0.0008350669995706994
+16:36:42 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009453680999286007
+16:36:42 Converter INFO       Convert file to csv took 0.001391778001561761
+16:36:42 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005170129999896744
+16:36:42 Converter INFO       Convert file to csv took 0.0010373929981142282
+16:36:42 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005472711000038544
+16:36:42 Converter INFO       Convert file to ndjson took 0.0008196700000553392
+16:37:13 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009086968002520734
+16:37:13 Converter INFO       Convert file to csv took 0.0014118460021563806
+16:37:13 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.00488000000041211
+16:37:13 Converter INFO       Convert file to csv took 0.0010938619998341892
+16:37:13 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.004863228998146951
+16:37:13 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005174607002118137
+16:37:13 Converter INFO       Convert file to ndjson took 0.0009920949996740092
+16:38:04 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.0094646229990758
+16:38:04 Converter INFO       Convert file to csv took 0.0014605059986934066
+16:38:04 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005109240002639126
+16:38:04 Converter INFO       Convert file to csv took 0.0011533600008988287
+16:38:04 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005255146999843419
+16:38:04 Converter INFO       Convert file to xlsx took 0.015693206998548703
+16:38:04 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.00564564500018605
+16:38:04 Converter INFO       Convert file to ndjson took 0.0008443170008831657
+16:38:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009631109998736065
+16:38:32 Converter INFO       Convert file to csv took 0.0015351269976235926
+16:38:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.00520507300097961
+16:38:32 Converter INFO       Convert file to csv took 0.001039533999573905
+16:38:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.004830083998967893
+16:38:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008244696000474505
+16:38:32 Converter INFO       Convert file to ndjson took 0.0012283059986657463
+16:38:45 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009124093001446454
+16:38:45 Converter INFO       Convert file to csv took 0.0014211249981599394
+16:38:45 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.0049307360022794455
+16:38:45 Converter INFO       Convert file to csv took 0.001154269000835484
+16:38:45 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005471422002301551
+16:38:45 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005528140998649178
+16:38:45 Converter INFO       Convert file to ndjson took 0.0008111369970720261
+16:39:36 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009410487000423018
+16:39:36 Converter INFO       Convert file to csv took 0.0015063549981277902
+16:39:36 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005013763999158982
+16:39:36 Converter INFO       Convert file to csv took 0.0010335039987694472
+16:39:36 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.0055210309983522166
+16:39:36 Converter INFO       Convert file to xlsx took 0.12218284800110268
+16:39:36 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005195447000005515
+16:39:36 Converter INFO       Convert file to ndjson took 0.0007608849991811439
+16:39:50 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009223780998581788
+16:39:50 Converter INFO       Convert file to csv took 0.001397185002133483
+16:39:50 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.004971138001565123
+16:39:50 Converter INFO       Convert file to csv took 0.0009874759998638183
+16:39:50 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.00485478299742681
+16:39:51 Converter INFO       Convert file to xlsx took 0.12262406199806719
+16:39:51 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005111488000693498
+16:39:51 Converter INFO       Convert file to ndjson took 0.0007688039986533113
+16:49:01 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0036556730010488536
+16:49:01 Converter INFO       Convert file to json took 0.0007973020001372788
+16:49:01 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.001956910997250816
+16:49:01 Converter INFO       Convert file to json took 0.0007216670019261073
+16:49:01 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.002163299999665469
+16:49:01 Converter INFO       Convert file to ndjson took 0.0006809820006310474
+16:49:01 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.001979512002435513
+16:49:01 Converter INFO       Convert file to json took 0.0006434799979615491
+16:49:01 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008033124999201391
+16:49:01 Converter INFO       Convert file to csv took 0.001542273999803001
+16:49:01 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005606673999864142
+16:49:01 Converter INFO       Convert file to csv took 0.0013342760030354839
+16:49:01 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005484626999532338
+16:49:01 Converter INFO       Convert file to xlsx took 0.12645900300049107
+16:49:01 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.0053486040014831815
+16:49:01 Converter INFO       Convert file to ndjson took 0.0007386459983536042
+16:54:28 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.01288500199734699
+16:54:28 Converter INFO       Convert file to json took 0.0050557329996081535
+16:54:28 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.005300559998431709
+16:54:28 Converter INFO       Convert file to json took 0.0007468420008081011
+16:54:28 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.009996371001761872
+16:54:28 Converter INFO       Convert file to ndjson took 0.0008546200006094296
+16:56:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.012282695999601856
+16:56:32 Converter INFO       Convert file to json took 0.0007860760015319102
+16:56:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.004824039999220986
+16:56:32 Converter INFO       Convert file to json took 0.0006774479988962412
+16:56:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.009606862000509864
+16:56:32 Converter INFO       Convert file to ndjson took 0.0008680739992996678
+16:59:27 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.010595361000014236
+16:59:27 Converter INFO       Convert file to json took 0.0007293529997696169
+16:59:27 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.005436921001091832
+16:59:27 Converter INFO       Convert file to json took 0.0007243699983519036
+16:59:27 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.00763000300139538
+16:59:27 Converter INFO       Convert file to ndjson took 0.000698081999871647
+17:09:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.003965428000810789
+17:09:32 Converter INFO       Convert file to json took 0.000905126998986816
+17:09:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0019586230009736028
+17:09:32 Converter INFO       Convert file to json took 0.0007942309966892935
+17:09:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0022204990018508397
+17:09:32 Converter INFO       Convert file to ndjson took 0.0007650199986528605
+17:09:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.01050851100080763
+17:09:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005755293001129758
+17:09:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005418898999778321
+17:09:32 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005047440001362702
+17:09:32 Converter INFO       Convert file to ndjson took 0.0007997850007086527
+17:10:24 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0035455910001473967
+17:10:24 Converter INFO       Convert file to json took 0.0007737180021649692
+17:10:24 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.001779138001438696
+17:10:24 Converter INFO       Convert file to json took 0.0006967629997234326
+17:10:24 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0021487890007847454
+17:10:24 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008186921000742586
+17:10:24 Converter INFO       Convert file to csv took 0.0014374799975485075
+17:10:24 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005617832001007628
+17:10:24 Converter INFO       Convert file to csv took 0.0009889709981507622
+17:10:24 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005227063000347698
+17:10:24 Converter INFO       Convert file to xlsx took 0.12923092500204802
+17:10:24 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009208528001181548
+17:11:04 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.005023790999985067
+17:11:04 Converter INFO       Convert file to json took 0.001042397998389788
+17:11:04 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0021204229997238144
+17:11:04 Converter INFO       Convert file to json took 0.0007506540023314301
+17:11:04 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.002280281998537248
+17:11:04 Converter INFO       Convert file to ndjson took 0.0007255820019054227
+17:11:04 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008383073000004515
+17:11:04 Converter INFO       Convert file to csv took 0.0020342149982752744
+17:11:04 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005551172002014937
+17:11:04 Converter INFO       Convert file to csv took 0.0011203940011910163
+17:11:04 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.007654959001229145
+17:11:04 Converter INFO       Convert file to xlsx took 0.13216465200093808
+17:11:04 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005405145002441714
+17:11:04 Converter INFO       Convert file to ndjson took 0.0007132469982025214
+17:14:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0033465699998487253
+17:14:11 Converter INFO       Convert file to json took 0.0007623240016982891
+17:14:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0017338279976684134
+17:14:11 Converter INFO       Convert file to json took 0.0006734560010954738
+17:14:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0020984250004403293
+17:14:11 Converter INFO       Convert file to ndjson took 0.0007314130016311537
+17:14:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008082680997176794
+17:14:11 Converter INFO       Convert file to csv took 0.0014152799994917586
+17:14:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.0047917970005073585
+17:14:11 Converter INFO       Convert file to csv took 0.0009941339994838927
+17:14:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.004856032999668969
+17:14:11 Converter INFO       Convert file to xlsx took 0.1327034839996486
+17:14:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009249640002963133
+17:14:11 Converter INFO       Convert file to ndjson took 0.0008265590004157275
+17:14:55 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.003488570000627078
+17:14:55 Converter INFO       Convert file to json took 0.0007999599984032102
+17:14:55 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0018557510011305567
+17:14:55 Converter INFO       Convert file to json took 0.0007142659997043665
+17:14:55 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0020281079996493645
+17:14:55 Converter INFO       Convert file to ndjson took 0.0007025339982646983
+17:14:55 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.007940401999803726
+17:14:55 Converter INFO       Convert file to csv took 0.0013622400001622736
+17:14:55 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005026847000408452
+17:14:55 Converter INFO       Convert file to csv took 0.0011371839973435272
+17:14:55 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005235041000560159
+17:14:55 Converter INFO       Convert file to xlsx took 0.12851296799999545
+17:14:55 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.0051982180011691526
+17:14:55 Converter INFO       Convert file to ndjson took 0.0007370790008280892
+17:18:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.003326555000967346
+17:18:02 Converter INFO       Convert file to json took 0.0007146979987737723
+17:18:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0017416669979866128
+17:18:02 Converter INFO       Convert file to json took 0.0006402690014510881
+17:18:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0020224970030540135
+17:18:02 Converter INFO       Convert file to ndjson took 0.0006765239995729644
+17:18:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008315376999235013
+17:18:02 Converter INFO       Convert file to csv took 0.0014337069987959694
+17:18:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005805679997138213
+17:18:02 Converter INFO       Convert file to csv took 0.0010401959989394527
+17:18:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.004988046999642393
+17:18:02 Converter INFO       Convert file to xlsx took 0.1323494380012562
+17:18:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009543681000650395
+17:18:02 Converter INFO       Convert file to ndjson took 0.0010608779994072393
+17:22:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0034416589987813495
+17:22:02 Converter INFO       Convert file to json took 0.0007271989998116624
+17:22:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample_semicolon.csv took 0.002229981000709813
+17:22:02 Converter INFO       Convert file to json took 0.0006718379991070833
+17:22:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0020016109992866404
+17:22:02 Converter INFO       Convert file to ndjson took 0.0007214990000647958
+17:22:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008033543999772519
+17:22:02 Converter INFO       Convert file to csv took 0.0013786729978164658
+17:22:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.004658960999222472
+17:22:02 Converter INFO       Convert file to csv took 0.000950617999478709
+17:22:02 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.004806419001397444
+17:22:03 Converter INFO       Convert file to xlsx took 0.13317839500086848
+17:22:03 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005693053000868531
+17:22:03 Converter INFO       Convert file to ndjson took 0.0008485930011374876
+17:33:33 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0035642010006995406
+17:33:33 Converter INFO       Convert file to json took 0.0008029509990592487
+17:33:33 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample_semicolon.csv took 0.002429031999781728
+17:33:33 Converter INFO       Convert file to json took 0.0007172260011429898
+17:33:33 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.002216495999164181
+17:33:33 Converter INFO       Convert file to ndjson took 0.0007412270024360623
+17:33:33 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008392940999328857
+17:33:33 Converter INFO       Convert file to csv took 0.001372673999867402
+17:33:33 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005518435998965288
+17:33:33 Converter INFO       Convert file to csv took 0.0011318680008116644
+17:33:33 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005544048999581719
+17:33:33 Converter INFO       Convert file to xlsx took 0.13313526699857903
+17:33:33 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009266197997931158
+17:33:33 Converter INFO       Convert file to ndjson took 0.0010117279998667073
+17:38:31 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0035770020003838
+17:38:31 Converter INFO       Convert file to json took 0.0007922920012788381
+17:38:31 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample_semicolon.csv took 0.002240596997580724
+17:38:31 Converter INFO       Convert file to json took 0.00069731100302306
+17:38:31 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.002130700999259716
+17:38:31 Converter INFO       Convert file to ndjson took 0.0007244040025398135
+17:38:31 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008297783002490178
+17:38:31 Converter INFO       Convert file to csv took 0.0015362239973910619
+17:38:31 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.006170336000650423
+17:38:31 Converter INFO       Convert file to csv took 0.0011077380004280712
+17:38:31 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.00498812200021348
+17:38:31 Converter INFO       Convert file to xlsx took 0.13053728399972897
+17:38:31 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.00565482899764902
+17:38:31 Converter INFO       Convert file to ndjson took 0.0007703899973421358
+17:38:42 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.003497344001516467
+17:38:42 Converter INFO       Convert file to json took 0.0007272200018633157
+17:38:42 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample_semicolon.csv took 0.0033532680026837625
+17:38:42 Converter INFO       Convert file to json took 0.0010327650015824474
+17:38:42 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.003148650997900404
+17:38:42 Converter INFO       Convert file to ndjson took 0.001043692998791812
+17:38:42 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.00822860399784986
+17:38:42 Converter INFO       Convert file to csv took 0.001474944998335559
+17:38:42 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.006468833002145402
+17:38:42 Converter INFO       Convert file to csv took 0.0011860960003104992
+17:38:42 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005438315001811134
+17:38:42 Converter INFO       Convert file to xlsx took 0.12746969100044225
+17:38:42 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005543010000110371
+17:38:42 Converter INFO       Convert file to ndjson took 0.0007295040013559628
+17:39:46 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.00353318699853844
+17:39:46 Converter INFO       Convert file to json took 0.0007959949980431702
+17:39:46 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample_semicolon.csv took 0.0023718520023976453
+17:39:46 Converter INFO       Convert file to json took 0.0007582620019093156
+17:39:46 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0022319029994832817
+17:39:46 Converter INFO       Convert file to ndjson took 0.0007518890015489887
+17:39:46 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008203232999221655
+17:39:46 Converter INFO       Convert file to csv took 0.001421249002305558
+17:39:46 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005671398001140915
+17:39:46 Converter INFO       Convert file to csv took 0.0011535909980011638
+17:39:46 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005173948000447126
+17:39:46 Converter INFO       Convert file to xlsx took 0.12787500500053284
+17:39:46 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005372914998588385
+17:39:46 Converter INFO       Convert file to ndjson took 0.0007879719996708445
+17:40:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0036176969988446217
+17:40:11 Converter INFO       Convert file to json took 0.0008029190030356403
+17:40:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample_semicolon.csv took 0.0022978039996814914
+17:40:11 Converter INFO       Convert file to json took 0.0006986810003581923
+17:40:11 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.002120697001373628
+17:40:11 Converter INFO       Convert file to ndjson took 0.0007292999980563764
+17:40:12 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008026579998841044
+17:40:12 Converter INFO       Convert file to csv took 0.0015733580003143288
+17:40:12 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.0052459979997365735
+17:40:12 Converter INFO       Convert file to csv took 0.0010409860005893279
+17:40:12 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.004985310999472858
+17:40:12 Converter INFO       Convert file to xlsx took 0.131945146000362
+17:40:12 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.009877702002995647
+17:40:12 Converter INFO       Convert file to ndjson took 0.0010746599982667249
+17:42:40 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0033598970003367867
+17:42:40 Converter INFO       Convert file to json took 0.0007977170025696978
+17:42:40 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample_semicolon.csv took 0.0022220749997359235
+17:42:40 Converter INFO       Convert file to json took 0.0007032649991742801
+17:42:40 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0020586859973263927
+17:42:40 Converter INFO       Convert file to ndjson took 0.0006844480012659915
+17:42:40 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.007436181000230135
+17:42:40 Converter INFO       Convert file to csv took 0.001448129001801135
+17:42:40 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005024554997362429
+17:42:40 Converter INFO       Convert file to csv took 0.0009902169986162335
+17:42:40 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.004582667999784462
+17:42:40 Converter INFO       Convert file to xlsx took 0.12550973799807252
+17:42:40 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.005621133997919969
+17:42:40 Converter INFO       Convert file to ndjson took 0.0008351680007763207
+17:42:40 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.ndjson took 0.005275261002680054
+17:42:40 Converter INFO       Convert file to csv took 0.0010504940000828356
+17:42:40 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.ndjson took 0.004930989001877606
+17:42:40 Converter INFO       Convert file to json took 0.0006522149997181259
+17:44:37 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.003360766000696458
+17:44:37 Converter INFO       Convert file to json took 0.0008995860007416923
+17:44:37 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample_semicolon.csv took 0.002350898001168389
+17:44:37 Converter INFO       Convert file to json took 0.0007367310026893392
+17:44:37 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0021033789998909924
+17:44:37 Converter INFO       Convert file to ndjson took 0.0006964739986869972
+17:44:37 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.00203777699789498
+17:44:37 Converter INFO       Convert file to json took 0.0007197220002126414
+17:44:37 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.csv took 0.0026042120007332414
+17:44:37 Converter INFO       Convert file to ndjson took 0.0007446210001944564
+17:44:37 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.008402734001720091
+17:44:37 Converter INFO       Convert file to csv took 0.001523857001302531
+17:44:37 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.0052860729992971756
+17:44:37 Converter INFO       Convert file to csv took 0.0010500479984330013
+17:44:37 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.004951775998051744
+17:44:37 Converter INFO       Convert file to xlsx took 0.12520565399972838
+17:44:37 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.json took 0.0050931389996549115
+17:44:37 Converter INFO       Convert file to ndjson took 0.0007110560000000987
+17:44:37 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.ndjson took 0.0047500109976681415
+17:44:37 Converter INFO       Convert file to csv took 0.0009699500005808659
+17:44:37 Converter INFO       Load file /home/tri/Mien/MiniProjects/chronos/test/io/in/core/converter/sample.ndjson took 0.004524157000560081
+17:44:37 Converter INFO       Convert file to json took 0.000639361998764798

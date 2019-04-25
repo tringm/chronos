@@ -6,3 +6,6 @@ secret.py
 
 #pycache
 __pycache__/
+
+#_out file
+*_out.*
