@@ -12,6 +12,8 @@ xlwt="*"
 openpyxl="*"
 xlrd="*"
 ndjson="*"
+requests="*"
+aiohttp="*"
 
 [requires]
 python_version = "3.6"

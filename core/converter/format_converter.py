@@ -7,7 +7,7 @@ from config import set_up_logger
 import timeit
 
 
-class Converter(ABC):
+class FormatConverter(ABC):
     def __init__(self):
         super().__init__()
         self.allowed_formats = ['csv', 'json', 'xlsx', 'ndjson']
@@ -55,7 +55,7 @@ class Converter(ABC):
         pass
 
 
-class PandasConverter(Converter):
+class PandasFormatConverter(FormatConverter):
     def __init__(self):
         super().__init__()
 
