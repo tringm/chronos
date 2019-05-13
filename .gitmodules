@@ -1,0 +1,4 @@
+[submodule "core/converter/file-converter"]
+	path = core/converter/file-converter
+	url = git@github.com:tringm/file-converter.git
+	branch = master

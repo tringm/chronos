@@ -2,6 +2,12 @@
 
 A data generator that pull real data from real world
 
+## Installation
+* If need file format converter, clone the file-converter submodule  
+    ```
+    cd core/converter
+    git submodule update --init
+    ```
 
 ## Seeders
 

@@ -6,12 +6,11 @@ import datetime
 from core.structure.PopulationPyramid import PopulationPyramid
 
 
-def generate_people_basic_info(population, sex_ratio=1.01, pop_pyramid=None):
+def generate_people_basic_info(population, sex_ratio=1.01):
     """
     Generate a person's basic info: Name, Gender
     :param population: int
     :param sex_ratio: number of male for each female
-    :param pop_pyramid: population pyramid for age distribution
     :return:
     """
     # TODO: a person does not follow common norm for naming based on gender (e.g: Jane -> Male)
